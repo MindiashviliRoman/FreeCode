@@ -1,0 +1,7 @@
+E:\Git\FreeCode\Algorithms\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+E:\Git\FreeCode\Algorithms\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+E:\Git\FreeCode\Algorithms\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+E:\Git\FreeCode\Algorithms\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+E:\Git\FreeCode\Algorithms\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+E:\Git\FreeCode\Algorithms\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+E:\Git\FreeCode\Algorithms\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
